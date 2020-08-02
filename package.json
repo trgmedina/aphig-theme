@@ -6,7 +6,9 @@
   "dependencies": {
     "sass": "^1.26.10"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "gulp-sass": "^4.1.0"
+  },
   "scripts": {
     "test": "npm test"
   },
