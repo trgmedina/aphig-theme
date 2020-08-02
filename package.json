@@ -1,0 +1,23 @@
+{
+  "name": "aphig-theme",
+  "version": "1.0.0",
+  "description": "WordPress theme for APhiG using Bootstrap",
+  "main": "index.js",
+  "dependencies": {
+    "sass": "^1.26.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trgmedina/aphig-theme.git"
+  },
+  "author": "Theresa Medina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trgmedina/aphig-theme/issues"
+  },
+  "homepage": "https://github.com/trgmedina/aphig-theme#readme"
+}
